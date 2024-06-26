@@ -80,7 +80,7 @@
             <label for="exampleInputPassword1">Senha</label>
             <input name="senha" type="password" class="form-control" id="exampleInputPassword1" placeholder="Senha">
         </div>
-        <button type="submit" class="btn btn-primary">Entrar</button>
+        <button type="submit" class="btn btn-primary">Entrar@</button>
         <?php 
 
             if(isset($_GET['erroLogin'])) { ?>
